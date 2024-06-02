@@ -1,0 +1,139 @@
+{
+    "baba ganoush": {
+        "ingredients": {
+            "aubergine": 6.0,
+            "lemon": 0.5,
+            "garlic": 1.0,
+            "tahini": 0.1
+        },
+        "portions": {
+            "buffet": 30
+        }
+    },
+    "baharat-spiced rice": {
+        "ingredients": {
+            "rice": 1,
+            "berlotti beans": 4,
+            "nature's pick onion": 4,
+            "tomato puree": 0.2,
+            "date syrup": 0.1
+        },
+        "portions": {
+            "buffet": 40,
+            "dinner": 15
+        }
+    },
+    "batata harra": {
+        "ingredients": {
+            "maris piper potatoes": 1,
+            "garlic": 0.3,
+            "lemon": 1,
+            "coriander": 1
+        },
+        "portions": {
+            "buffet": 30,
+            "dinner": 15
+        }
+    },
+    "caponata crostini": {
+        "ingredients": {
+            "aubergine": 0.35,
+            "cherry tomato": 0.1,
+            "nature's pick onion": 0.75,
+            "celery": 0.1,
+            "pine nuts": 30.0,
+            "capers": 0,
+            "green olives": 0.15,
+            "caster sugar": 0.01,
+            "red wine vinegar": 0.015,
+            "tomato puree": 0.03,
+            "fresh basil": 0.25
+        },
+        "portions": {
+            "canapes": 40,
+            "buffet": 30
+        }
+    },
+    "ful": {
+        "ingredients": {
+            "ful": 2,
+            "tomato": 1,
+            "garlic": 0.2
+        },
+        "portions": {
+            "buffet": 15,
+            "dinner": 5
+        }
+    },
+    "hummus": {
+        "ingredients": {
+            "dried chickpeas": 0.5,
+            "garlic": 0.25,
+            "lemon": 1.5,
+            "tahini": 0.4
+        },
+        "portions": {
+            "buffet": 30,
+            "dinner": 10
+        }
+    },
+    "matbucha": {
+        "ingredients": {
+            "mutti": 4,
+            "sivri pepper": 0.3,
+            "garlic": 1.25,
+            "sunflower oil": 0.25
+        },
+        "portions": {
+            "buffet": 30,
+            "dinner": 10
+        }
+    },
+    "moroccan carrots": {
+        "ingredients": {
+            "carrots": 1,
+            "garlic": 0.33,
+            "lemon": 1.5,
+            "coriander": 0.5
+        },
+        "portions": {
+            "buffet": 30,
+            "canape": 50,
+            "dinner": 15
+        }
+    },
+    "pashdida": {
+        "ingredients": {
+            "maris piper potatoes": 1.0,
+            "free range eggs": 7.0,
+            "parsley bunch": 0.1,
+            "lemon": 0.5
+        },
+        "portions": {
+            "buffet": 20,
+            "dinner": 10
+        }
+    },
+    "schug": {
+        "ingredients": {
+            "bullet chilli": 0.2,
+            "coriander": 2,
+            "garlic": 0.5
+        },
+        "portions": {
+            "buffet": 50
+        }
+    },
+    "za'alouk": {
+        "ingredients": {
+            "aubergine": 6,
+            "garlic": 0.25,
+            "lemon": 0.5,
+            "rapeseed oil": 0.25
+        },
+        "portions": {
+            "buffet": 30,
+            "dinner": 10
+        }
+    }
+}
